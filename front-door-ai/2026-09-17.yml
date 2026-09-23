@@ -1,0 +1,27 @@
+# Front Door AI Index — referly — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: referly
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: mattermark.com
+  final_host: mattermark.com
+  ownership: shared
+  owner: mattermark
+  shares_host_with:
+  - mattermark
+  inherited_from: null
+  verdict: scored
+  score: null
+  host_score: 1
+  density: null
+  words: 557
+  tiers:
+    agentic: 0
+    core: 1
+    model: 0
+  ambiguous: 2
+  top_terms:
+    intelligence: 2
+    machine learning: 1
